@@ -1,5 +1,5 @@
 # angular4-dashboard-example
-
+An example of dashboard using [Angular4](https://angular.io/) and [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 ## Pre Requirements
 * Node v6.10.0:
 
